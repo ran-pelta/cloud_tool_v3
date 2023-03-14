@@ -21,7 +21,7 @@ entrypoints==0.4
 fastjsonschema==2.15.3
 Fiona==1.8.18
 fonttools==4.33.3
-# GDAL==3.5.0
+GDAL==3.5.0
 geopandas==0.9.0
 idna==3.3
 importlib-metadata==4.11.3
